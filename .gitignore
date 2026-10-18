@@ -15,3 +15,7 @@ desktop.ini
 __pycache__/
 *.py[cod]
 .pytest_cache/
+
+# Build scripts kept local only
+build_dashboard.py
+build_workbook.py
